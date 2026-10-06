@@ -1,2 +1,3 @@
 # campus-event-registration
-Thsi is for CSC649 class
+
+This is for CSC649 class
